@@ -11,49 +11,51 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Applied Mathematics & Computer Science, ENSEEIHT, 2021-2024
+* B.S. in Mathematics, Universtité Paul Sabatier, 2020-2021
+* B.S. in Software Engineering, IUT de Rodez, 2018-2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Software Engineer Intern @ ACTIA Group
+  * Conception and programming of an automatic test bench to test electronic boards before they are put into production
+  * Tech : Java - Microcontroller (C)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2021: Research Intern @ IRIT
+  * Supervised cell classification from images
+  * Tech : CNN - Data Augmentation - Transfer Learning
+
+* Summer 2020: Software Engineer Intern @ ACTIA Group
+  * Conception and programming of a software to record the data of a test report in a database
+  * Tech : Java - SQL
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mathematics
+  * Linear Algebra
+  * Statistics
+  * Probability
+  * Optimisation
 
-Publications
+* Machine Learning
+  * Pytorch
+  * Tensorflow
+  * Scikit-Learn
+  * Gym
+
+* Programming Langages
+  * Python
+  * C/C++
+  * Java
+  * ADA
+  * OCaml
+  * HTML/CSS
+  * Javascipt
+  * PHP
+
+Langages
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* French - Native
+* English - C1
+* Chinese - A2
+* Spanish - A2
