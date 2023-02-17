@@ -3,9 +3,6 @@ main:
 
   - title: "CV"
     url: /cv/    
-    
-  - title: "PPP"
-    url: /ppp/
-        
+            
   - title: "Projects"
     url: /projects/
