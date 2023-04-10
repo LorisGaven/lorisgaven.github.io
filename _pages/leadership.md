@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /leadership/
 title: "Leadership"
 excerpt: "Leadership"
 author_profile: true
@@ -7,6 +7,8 @@ redirect_from:
   - /leadership/
   - /leadership.html
 ---
+
+In connection with the 'Leadership' courses taught at school, I interviewed a person who had responsibilities and had to take care of a team
 
 ### How do you handle non-performance issues within your team?
 
