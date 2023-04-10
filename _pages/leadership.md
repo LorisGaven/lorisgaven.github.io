@@ -4,7 +4,6 @@ title: "Leadership"
 excerpt: "Leadership"
 author_profile: true
 redirect_from:
-  - /leadership/
   - /leadership.html
 ---
 
